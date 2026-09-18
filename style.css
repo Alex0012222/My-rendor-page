@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(216, 216, 216);
+
+}
+
+h1{
+    font-size: 1.25rem;
+}
+
+h2{
+    font-size: 1rem;
+}
+
+p{
+    font-size: 0.6rem;
+}
+
+#modify {
+    font-size: 0.6rem;
+}
